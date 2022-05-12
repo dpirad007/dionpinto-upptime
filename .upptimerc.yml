@@ -20,7 +20,7 @@ status-website:
     - title: Status
       href: /
     - title: Portfolio
-      href: https://github.com/$OWNER/dionpinto
+      href: https://dpirad007.github.io/dionpinto
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
