@@ -16,6 +16,7 @@ status-website:
   name: Dionpinto-Upptime
   introTitle: "Hi I am **Dion** and this is my Upptime"
   introMessage: Upptime for my portfolio site.
+  theme: "Dark"
   navbar:
     - title: Status
       href: /
