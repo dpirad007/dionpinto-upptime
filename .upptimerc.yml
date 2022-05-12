@@ -19,7 +19,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Portfolio
       href: https://github.com/$OWNER/dionpinto
 
 # Upptime also supports notifications, assigning issues, and more
