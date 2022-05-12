@@ -16,12 +16,13 @@ status-website:
   name: Dionpinto-Upptime
   introTitle: "Hi I am **Dion** and this is my Upptime"
   introMessage: Upptime for my portfolio site.
-  theme: "Dark"
   navbar:
     - title: Status
-      href: /
+      href: /dionpinto-upptime
     - title: Portfolio
       href: https://dpirad007.github.io/dionpinto
+  status-page:
+  theme: "Dark"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
