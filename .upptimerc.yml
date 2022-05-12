@@ -21,7 +21,7 @@ status-website:
       href: /dionpinto-upptime
     - title: Portfolio
       href: https://dpirad007.github.io/dionpinto
-  status-page:
+status-page:
   theme: "Dark"
 
 # Upptime also supports notifications, assigning issues, and more
