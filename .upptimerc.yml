@@ -5,7 +5,8 @@ repo: dionpinto-upptime # The name of this repository
 sites:
   - name: Dion Pinto
     url: https://dpirad007.github.io/dionpinto/
-    
+assignees: # Users to assign downtime issues (optional)
+  - dpirad007
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -13,13 +14,13 @@ status-website:
   baseUrl: /dionpinto-upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Dionpinto-Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Upptime for Dion Pinto Portfolio site.
+  introTitle: "Hi I am **Dion** and this is my Upptime"
+  introMessage: Upptime for my portfolio site.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/$OWNER/dionpinto
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
