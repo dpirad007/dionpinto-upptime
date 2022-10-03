@@ -2,7 +2,7 @@
   {
     "name": "Dion Pinto",
     "url": "https://dpirad007.github.io/dionpinto/",
-    "icon": "https://favicons.githubusercontent.com/dpirad007.github.io",
+    "icon": "https://icons.duckduckgo.com/ip3/dpirad007.github.io.ico",
     "slug": "dion-pinto",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 92,
-    "timeWeek": 83,
-    "timeMonth": 82,
+    "timeDay": 51,
+    "timeWeek": 71,
+    "timeMonth": 79,
     "timeYear": 97,
     "dailyMinutesDown": {}
   }
